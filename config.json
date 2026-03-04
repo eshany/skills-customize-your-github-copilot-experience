@@ -58,6 +58,20 @@
           "type": "csv"
         }
       ]
+    },
+    {
+      "id": "machine-learning-in-python",
+      "title": "Machine Learning in Python",
+      "description": "Build and evaluate a simple machine learning workflow with prepared data and model predictions.",
+      "path": "assignments/machine-learning-in-python",
+      "dueDate": "2026-03-11",
+      "attachments": [
+        {
+          "name": "Starter Code",
+          "file": "starter-code.py",
+          "type": "python"
+        }
+      ]
     }
   ]
 }
